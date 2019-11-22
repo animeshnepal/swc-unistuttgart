@@ -4,4 +4,4 @@ touch example3.txt
 cat example1.txt	
 ls -a >> example1.txt
 sort example1.txt | tail -n 1 > example2.txt
-
+echo "$PS1"
